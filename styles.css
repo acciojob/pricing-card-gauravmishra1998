@@ -8,7 +8,7 @@ img{width:40vw;
 main{ width:100%;
 	 padding:50px;
 	 background-color:lightblue;
-	 box-shadow:black;
+	     box-shadow: 0px 0px 10px 5px black;
 	}
 h1{text-align:center;}
 .same{font-style:bold;
